@@ -20,7 +20,7 @@ I focus on **building, breaking, fixing, and explaining** — the same mindset u
 ---
 
 ### 📌 Public Proof of Work
-👉 [Cloud Journey Log] (https://github.com/tradesmartzakar/cloud-journey)
+👉 [Cloud Journey Log] ([https://github.com/tradesmartzakar/cloud-journey](https://github.com/tradesmartzakar/aws-cloud-journey.git))
 
 This repo is my living proof log — every project includes:
 
